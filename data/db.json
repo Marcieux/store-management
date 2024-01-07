@@ -1,0 +1,84 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "123SuperMart",
+      "email": "123123info@supermart.com",
+      "website": "https://www.123123supermart.com",
+      "address": "123 SuperMart Avenue, Mega City, Country",
+      "phoneNumber": "+1 (123) 456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Fashion Haven",
+      "email": "info@fashionhaven.com",
+      "website": "https://www.fashionhaven.com",
+      "address": "456 Fashion Street, Trendy Town, Country",
+      "phoneNumber": "+1 (234) 567-8901"
+    },
+    {
+      "id": 3,
+      "name": "Tech Universe",
+      "email": "info@techuniverse.com",
+      "website": "https://www.techuniverse.com",
+      "address": "789 Tech Plaza, Digital City, Country",
+      "phoneNumber": "+1 (345) 678-9012"
+    },
+    {
+      "id": 4,
+      "name": "Gourmet Delights",
+      "email": "info@gourmetdelights.com",
+      "website": "https://www.gourmetdelights.com",
+      "address": "101 Gourmet Road, Foodville, Country",
+      "phoneNumber": "+1 (456) 789-0123"
+    },
+    {
+      "id": 5,
+      "name": "Sports Emporium",
+      "email": "info@sportsemporium.com",
+      "website": "https://www.sportsemporium.com",
+      "address": "246 Sports Street, Athlete Town, Country",
+      "phoneNumber": "+1 (567) 890-1234"
+    },
+    {
+      "id": 6,
+      "name": "Book Nook",
+      "email": "info@booknook.com",
+      "website": "https://www.booknook.com",
+      "address": "789 Literary Lane, Readville, Country",
+      "phoneNumber": "+1 (678) 901-2345"
+    },
+    {
+      "id": 7,
+      "name": "Home Essentials",
+      "email": "info@homeessentials.com",
+      "website": "https://www.homeessentials.com",
+      "address": "321 Homeware Road, Comfort City, Country",
+      "phoneNumber": "+1 (789) 012-3456"
+    },
+    {
+      "id": 8,
+      "name": "Pet Paradise",
+      "email": "info@petparadise.com",
+      "website": "https://www.petparadise.com",
+      "address": "555 Pet Lane, Animalville, Country",
+      "phoneNumber": "+1 (890) 123-4567"
+    },
+    {
+      "id": 9,
+      "name": "Artistry Gallery",
+      "email": "info@artistrygallery.com",
+      "website": "https://www.artistrygallery.com",
+      "address": "666 Art Street, Creative Town, Country",
+      "phoneNumber": "+1 (901) 234-5678"
+    },
+    {
+      "id": 10,
+      "name": "AutoZone",
+      "email": "info@autozone.com",
+      "website": "https://www.autozone.com",
+      "address": "777 Car Avenue, Auto City, Country",
+      "phoneNumber": "+1 (012) 345-6789"
+    }
+  ]
+}
